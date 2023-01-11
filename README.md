@@ -7,11 +7,11 @@
 
 ## Install
 ```
-npm install --save react-native-search-box
+npm install --save rn-super-search-box
 
 or
 
-yarn add react-native-search-box
+yarn add rn-super-search-box
 ```
 
 ## Demo
@@ -30,7 +30,7 @@ yarn add react-native-search-box
 import React, { PureComponent } from 'react';
 import { TouchableHightLight, Text, View } from 'react-native';
 import AtoZListView from 'react-native-atoz-listview';
-import Search from 'react-native-search-box';
+import Search from 'rn-super-search-box';
 
 const rowHeight = 40;
 
@@ -246,7 +246,7 @@ class MyScene extends PureComponent {
 
 The MIT License
 
-Copyright (c) 2017 Agiletech. https://github.com/agiletechvn
+Copyright (c) 2023 Agiletech. https://github.com/johnnyscript
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
